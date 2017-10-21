@@ -1,0 +1,7 @@
+string task_name
+int32 difficulty
+---
+duration time_elapsed
+---
+duration time_elapsed
+duration time_remaining

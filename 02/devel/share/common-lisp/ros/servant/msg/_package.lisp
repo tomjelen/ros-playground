@@ -1,0 +1,19 @@
+(cl:defpackage servant-msg
+  (:use )
+  (:export
+   "<WORKACTION>"
+   "WORKACTION"
+   "<WORKACTIONFEEDBACK>"
+   "WORKACTIONFEEDBACK"
+   "<WORKACTIONGOAL>"
+   "WORKACTIONGOAL"
+   "<WORKACTIONRESULT>"
+   "WORKACTIONRESULT"
+   "<WORKFEEDBACK>"
+   "WORKFEEDBACK"
+   "<WORKGOAL>"
+   "WORKGOAL"
+   "<WORKRESULT>"
+   "WORKRESULT"
+  ))
+
